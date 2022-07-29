@@ -1,7 +1,7 @@
 {
   "error": false,
-  "isNewApp":true,
-  "app_pkg": "com.chatkar.randomchat.livevideocall.randomvideocall.videocallappwithgirl.livetalk.videocall",
+  "isNewApp":false,
+  "app_pkg": "com.downing.videodownloader.video.downloader",
    "fbBannr": "YOUR_PLACEMENT_ID",
   "fbInter": "YOUR_PLACEMENT_ID",
   "fbNative": "YOUR_PLACEMENT_ID",
