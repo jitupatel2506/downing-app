@@ -9,7 +9,7 @@
     "admob_native": "/21753324030,22792603201/com.downing.videodownloader.video.downloader_Native",
     "admob_open": "/21753324030,22792603201/com.downing.videodownloader.video.downloader_AppOpen",
     "ad_type" : "0",
-    "load_more":true,
+    "load_more":false,
     "admob_native_ad_count" : 5,
     "new_pkg" : "com.twentytwo.vancedplayer.vancedtube.vancedtubeplayer",
     "is_version" : "false"
