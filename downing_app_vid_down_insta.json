@@ -5,9 +5,9 @@
   "fb_mid_rect": "289982756383701_289984536383523",
   "admob_pub_id": "pub-3940256099942544",
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-  "admob_banner": "/21753324030,22792603201/com.downloader.instasave.storysaver.storysaverforinstagram.reelsdownloader_Banner",
-  "admob_interstitial": "/21753324030,22792603201/com.downloader.instasave.storysaver.storysaverforinstagram.reelsdownloader_Interstitial",
-  "admob_native": "/21753324030,22792603201/com.downloader.instasave.storysaver.storysaverforinstagram.reelsdownloader_Native",
+  "admob_banner": "",
+  "admob_interstitial": "",
+  "admob_native": "",
   "new_pkg": "abc.xyz",
   "is_version": "false",
   "ad_type": "1"
