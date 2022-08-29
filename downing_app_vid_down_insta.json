@@ -8,7 +8,7 @@
   "admob_banner": "",
   "admob_interstitial": "",
   "admob_native": "",
-  "new_pkg": "abc.xyz",
-  "is_version": "false",
+  "new_pkg" : "com.downing.videodownloader.video.downloader",
+  "is_version" : "true",
   "ad_type": "1"
 }
