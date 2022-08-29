@@ -12,5 +12,5 @@
     "load_more":false,
     "admob_native_ad_count" : 5,
     "new_pkg" : "com.downing.videodownloader.video.downloader",
-    "is_version" : "false"
+    "is_version" : "true"
   }
